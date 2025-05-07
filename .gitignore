@@ -1,0 +1,16 @@
+# Ignore all data files
+data/
+!data/.gitkeep
+
+# Ignore Parquet and CSV files anywhere
+*.parquet
+*.csv
+
+# Ignore Spark temp and checkpoint folders
+spark-warehouse/
+.metastore_db/
+checkpoint/
+
+# Ignore logs
+logs/
+*.log

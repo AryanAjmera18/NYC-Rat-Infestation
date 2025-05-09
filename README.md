@@ -46,7 +46,7 @@ This project involves designing and deploying an interactive dashboard to analyz
 ## 2️⃣ Code Execution Instructions
 
 ### Repository  
-[👉 Link to GitHub Repository (insert your link here)]  
+(https://github.com/AryanAjmera18/NYC-Rat-Infestation)
 
 ### High-Level Code Logic
 ```bash
@@ -60,7 +60,6 @@ This project involves designing and deploying an interactive dashboard to analyz
    streamlit run src/app/streamlit_app.py
 ```
 
-Refer to the full [README section in your repo](insert-link-here).
 
 ---
 
